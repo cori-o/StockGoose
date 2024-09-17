@@ -1,0 +1,9 @@
+# 환경 설정 파일 
+.env 
+
+# log 
+*.log 
+
+# etc  
+*.mst 
+*.dat 
